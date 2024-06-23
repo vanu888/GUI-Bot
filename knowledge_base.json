@@ -1,0 +1,790 @@
+{
+  "questions": [
+
+    {
+      "question": "Good Morning",
+      "answer": "Good Morning!"
+    },
+    
+    {
+      "question": "hey",
+      "answer": "Hey, what's up?"
+    },
+    {
+      "question": "Good Night",
+      "answer": "Good Night!"
+    },
+    {
+      "question": "Good evening",
+      "answer": "Good evening!"
+    },
+    {
+      "question": "Good afternoon",
+      "answer": "Good afternoon!"
+    },
+    {
+      "question": "What is your favorite color?",
+      "answer": "I don't have the ability to perceive color, but I appreciate all colors equally."
+    },
+    {
+      "question": "Can you recommend a good book?",
+      "answer": "One classic book that I recommend is 'To Kill a Mockingbird' by Harper Lee."
+    },
+    {
+      "question": "How do I change a flat tire?",
+      "answer": "To change a flat tire, you'll need to use a jack to lift the car, remove the lug nuts, and replace the tire with the spare."
+    },
+    {
+      "question": "What's the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "What's the best way to learn a new language?",
+      "answer": "Immersing yourself in the language by practicing with native speakers and using language learning apps can be very effective."
+    },
+    {
+      "question": "How do I bake a chocolate cake?",
+      "answer": "To bake a chocolate cake, you'll need flour, sugar, cocoa powder, eggs, milk, and baking powder. Mix the dry ingredients, add the wet ingredients, and bake in the oven."
+    },
+    {
+      "question": "What's the population of Japan?",
+      "answer": "As of the latest data, the population of Japan is approximately 126 million people."
+    },
+    {
+      "question": "How does a computer work?",
+      "answer": "A computer processes data using its central processing unit (CPU), memory, and input/output devices to perform tasks and execute programs."
+    },
+    {
+      "question": "What's the best way to stay healthy?",
+      "answer": "Maintaining a balanced diet, regular exercise, and getting enough sleep are key components of staying healthy."
+    },
+    {
+      "question": "How do I create a budget?",
+      "answer": "To create a budget, track your income and expenses, set financial goals, and allocate funds for different categories such as housing, food, and savings."
+    },
+    {
+      "question": "What's the tallest mountain in the world?",
+      "answer": "Mount Everest is the tallest mountain in the world, with a peak that reaches 29,029 feet above sea level."
+    },
+    {
+      "question": "How do I improve my public speaking skills?",
+      "answer": "Practicing regularly, preparing thoroughly, and seeking feedback can help improve your public speaking skills."
+    },
+    {
+      "question": "What's the best way to start a small business?",
+      "answer": "Researching the market, creating a business plan, and securing funding are important steps in starting a small business."
+    },
+    {
+      "question": "What's the capital of Australia?",
+      "answer": "The capital of Australia is Canberra."
+    },
+    {
+      "question": "How do I change a light bulb?",
+      "answer": "To change a light bulb, turn off the power, remove the old bulb, and screw in the new bulb."
+    },
+    {
+      "question": "What's the boiling point of water?",
+      "answer": "The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit)."
+    },
+    {
+      "question": "How do I tie a tie?",
+      "answer": "There are several ways to tie a tie, but a common method is the four-in-hand knot. Start with the wide end on your right and the narrow end on your left. Cross the wide end over the narrow end, then bring it under and over the narrow end. Continue wrapping and tucking to create the knot."
+    },
+    {
+      "question": "What's the best way to prepare for a job interview?",
+      "answer": "Researching the company, practicing common interview questions, and preparing questions to ask the interviewer can help you prepare for a job interview."
+    },
+    {
+      "question": "How do I make a cup of coffee?",
+      "answer": "To make a cup of coffee, grind coffee beans, place the grounds in a filter, pour hot water over the grounds, and let it steep before removing the filter."
+    },
+    {
+      "question": "What's the largest ocean in the world?",
+      "answer": "The Pacific Ocean is the largest ocean in the world, covering approximately 63 million square miles."
+    },
+    {
+      "question": "How do I change a diaper?",
+      "answer": "To change a diaper, lay the baby on a clean, soft surface, remove the dirty diaper, wipe the baby's bottom, and fasten a clean diaper in place."
+    },
+    {
+      "question": "What's the best way to study for exams?",
+      "answer": "Creating a study schedule, using active learning techniques, and taking regular breaks can help you study effectively for exams."
+    },
+    {
+      "question": "How do I make a grilled cheese sandwich?",
+      "answer": "To make a grilled cheese sandwich, butter two slices of bread, place cheese between the slices, and grill in a pan until golden brown on both sides."
+    },
+    {
+      "question": "How do I change a car's oil?",
+      "answer": "To change a car's oil, drain the old oil, replace the oil filter, and refill the engine with new oil of the appropriate grade."
+    },
+    {
+      "question": "What's the best way to start a fitness routine?",
+      "answer": "Starting with a mix of cardio, strength training, and flexibility exercises, and gradually increasing intensity can help you start a fitness routine."
+    },
+    {
+      "question": "How do I make a salad?",
+      "answer": "To make a salad, wash and chop fresh vegetables, add your choice of protein and dressing, and toss to combine."
+    },
+    {
+      "question": "What's the currency of Japan?",
+      "answer": "The currency of Japan is the Japanese yen."
+    },
+    {
+      "question": "How do I change a bicycle tire?",
+      "answer": "To change a bicycle tire, release the brakes, remove the wheel, take off the tire and tube, replace the tube, and reassemble the tire and wheel."
+    },
+    {
+      "question": "What's the best way to save money?",
+      "answer": "Creating a budget, setting financial goals, and automating savings can help you save money effectively."
+    },
+    {
+      "question": "How do I make a paper airplane?",
+      "answer": "To make a paper airplane, fold a piece of paper in half lengthwise, then fold the top corners down to the center fold. Fold the resulting triangle in half, then fold the wings down to create the airplane shape."
+    },
+    {
+      "question": "What's the capital of South Africa?",
+      "answer": "The capital of South Africa is Pretoria."
+    },
+    {
+      "question": "How do I change a doorknob?",
+      "answer": "To change a doorknob, remove the screws holding the old knob in place, take out the old knob, and install the new knob by reversing the process."
+    },
+    {
+      "question": "What's the best way to start a vegetable garden?",
+      "answer": "Choosing a sunny location, preparing the soil, and selecting the right vegetables for your climate can help you start a successful vegetable garden."
+    },
+    {
+      "question": "How do I make a smoothie?",
+      "answer": "To make a smoothie, blend your choice of fruits, vegetables, yogurt, and liquid (such as juice or milk) until smooth."
+    },
+    {
+      "question": "What's the capital of Canada?",
+      "answer": "The capital of Canada is Ottawa."
+    },
+    {
+      "question": "How do I change a light switch?",
+      "answer": "To change a light switch, turn off the power, remove the cover plate, unscrew the switch from the electrical box, disconnect the wires, and connect the wires to the new switch."
+    },
+    {
+      "question": "What's the best way to start a meditation practice?",
+      "answer": "Finding a quiet space, focusing on your breath, and starting with short sessions can help you start a meditation practice."
+    },
+    {
+      "question": "How do I make a pizza?",
+      "answer": "To make a pizza, prepare the dough, add sauce and toppings, and bake in a hot oven until the crust is golden and the cheese is bubbly."
+    },
+    {
+      "question": "What's the capital of China?",
+      "answer": "The capital of China is Beijing."
+    },
+    {
+      "question": "How do I change a showerhead?",
+      "answer": "To change a showerhead, unscrew the old showerhead, clean the pipe threads, wrap new plumber's tape around the threads, and screw on the new showerhead."
+    },
+    {
+      "question": "What's the best way to start a morning routine?",
+      "answer": "Starting with a healthy breakfast, setting intentions for the day, and incorporating exercise or meditation can help you start a morning routine."
+    },
+    {
+      "question": "How do I make a cup of tea?",
+      "answer": "To make a cup of tea, boil water, pour it over a tea bag or loose tea leaves, and let it steep for the desired strength before removing the tea bag or straining the leaves."
+    },
+    {
+      "question": "What's the capital of Italy?",
+      "answer": "The capital of Italy is Rome."
+    },
+    {
+      "question": "How do I change a car battery?",
+      "answer": "To change a car battery, disconnect the negative terminal, then the positive terminal, remove the battery, clean the terminals, place the new battery, and reconnect the terminals."
+    },
+    {
+      "question": "What's the best way to start a journal?",
+      "answer": "Setting aside time each day, choosing a comfortable writing space, and writing freely without judgment can help you start a journaling practice."
+    },
+    {
+      "question": "How do I make a sandwich?",
+      "answer": "To make a sandwich, choose your favorite bread, add your choice of fillings, and enjoy!"
+    },
+    {
+      "question": "What's the currency of Mexico?",
+      "answer": "The currency of Mexico is the Mexican peso."
+    },
+    {
+      "question": "How do I change a lawnmower blade?",
+      "answer": "To change a lawnmower blade, disconnect the spark plug, remove the old blade, install the new blade, and reattach the spark plug."
+    },
+    {
+      "question": "What's the best way to start a mindfulness practice?",
+      "answer": "Starting with short mindfulness exercises, focusing on the present moment, and practicing self-compassion can help you start a mindfulness practice."
+    },
+    {
+      "question": "How do I make a grilled chicken salad?",
+      "answer": "To make a grilled chicken salad, grill chicken breast, slice it, and toss it with fresh salad greens, vegetables, and your choice of dressing."
+    },
+    {
+      "question": "What's the capital of Russia?",
+      "answer": "The capital of Russia is Moscow."
+    },
+    {
+      "question": "How's your day going?",
+      "answer": "It's going well, thank you! How about you?"
+    },
+    {
+      "question": "What's new with you?",
+      "answer": "Not much, just enjoying the day. How about you?"
+    },
+    {
+      "question": "What are your plans for the weekend?",
+      "answer": "I'm thinking of going for a hike. How about you?"
+    },
+    {
+      "question": "Do you have any pets?",
+      "answer": "Yes, I have a dog named Max. Do you have any pets?"
+    },
+    {
+      "question": "What's your favorite hobby?",
+      "answer": "I love painting and reading. What about you?"
+    },
+    {
+      "question": "Have you seen any good movies lately?",
+      "answer": "Yes, I recently watched a great comedy. How about you?"
+    },
+    {
+      "question": "What's your favorite type of music?",
+      "answer": "I enjoy listening to pop and rock. What about you?"
+    },
+    {
+      "question": "What's your favorite food?",
+      "answer": "I love Italian cuisine. How about you?"
+    },
+    {
+      "question": "What's your favorite season?",
+      "answer": "I love the fall season. What about you?"
+    },
+    {
+      "question": "Do you enjoy traveling?",
+      "answer": "Yes, I love exploring new places. How about you?"
+    },
+    {
+      "question": "What's your favorite outdoor activity?",
+      "answer": "I enjoy going for long walks in the park. What about you?"
+    },
+    {
+      "question": "Do you have any upcoming vacation plans?",
+      "answer": "Yes, I'm planning a trip to the beach. How about you?"
+    },
+    {
+      "question": "What's your favorite book?",
+      "answer": "I love reading mystery novels. What about you?"
+    },
+    {
+      "question": "Do you enjoy cooking?",
+      "answer": "Yes, I love trying out new recipes. How about you?"
+    },
+    {
+      "question": "What's your favorite TV show?",
+      "answer": "I enjoy watching sitcoms and documentaries. What about you?"
+    },
+    {
+      "question": "Do you have any siblings?",
+      "answer": "Yes, I have a brother and a sister. How about you?"
+    },
+    {
+      "question": "What's your favorite way to relax?",
+      "answer": "I love taking a hot bath and listening to music. What about you?"
+    },
+    {
+      "question": "Do you enjoy sports?",
+      "answer": "Yes, I love playing tennis and going for runs. How about you?"
+    },
+    {
+      "question": "What's your favorite type of exercise?",
+      "answer": "I enjoy yoga and swimming. What about you?"
+    },
+    {
+      "question": "Do you have any favorite quotes?",
+      "answer": "Yes, I love the quote 'Be the change you wish to see in the world'. What about you?"
+    },
+    {
+      "question": "What's your favorite way to start the day?",
+      "answer": "I love starting the day with a cup of coffee and some quiet time. What about you?"
+    },
+    {
+      "question": "Do you enjoy gardening?",
+      "answer": "Yes, I find gardening very relaxing. How about you?"
+    },
+    {
+      "question": "What's your favorite board game?",
+      "answer": "I love playing Scrabble and Monopoly. What about you?"
+    },
+    {
+      "question": "Do you enjoy going to concerts?",
+      "answer": "Yes, I love live music. How about you?"
+    },
+    {
+      "question": "What's your favorite type of art?",
+      "answer": "I love impressionist paintings. What about you?"
+    },
+    {
+      "question": "Do you have any favorite podcasts?",
+      "answer": "Yes, I enjoy listening to true crime podcasts. How about you?"
+    },
+    {
+      "question": "What's your favorite way to spend a rainy day?",
+      "answer": "I love curling up with a good book and a cup of tea. What about you?"
+    },
+    {
+      "question": "Do you enjoy volunteering?",
+      "answer": "Yes, I find it very rewarding. How about you?"
+    },
+    {
+      "question": "What's your favorite way to give back to the community?",
+      "answer": "I enjoy participating in charity runs and fundraisers. What about you?"
+    },
+    {
+      "question": "Do you have any favorite charities?",
+      "answer": "Yes, I support organizations that work for animal welfare. How about you?"
+    },
+    {
+      "question": "What's your favorite way to de-stress?",
+      "answer": "I find meditation and deep breathing very helpful. What about you?"
+    },
+    {
+      "question": "Do you enjoy DIY projects?",
+      "answer": "Yes, I love getting creative with DIY crafts. How about you?"
+    },
+    {
+      "question": "What's your favorite type of DIY project?",
+      "answer": "I enjoy making handmade candles and soaps. What about you?"
+    },
+    {
+      "question": "Do you enjoy attending festivals?",
+      "answer": "Yes, I love the energy and excitement of festivals. How about you?"
+    },
+    {
+      "question": "What's your favorite type of festival?",
+      "answer": "I enjoy music festivals and food festivals. What about you?"
+    },
+    {
+      "question": "Do you have any favorite apps on your phone?",
+      "answer": "Yes, I love using productivity and meditation apps. How about you?"
+    },
+    {
+      "question": "What's your favorite way to stay organized?",
+      "answer": "I love using planners and to-do lists. What about you?"
+    },
+    {
+      "question": "Do you enjoy attending workshops and classes?",
+      "answer": "Yes, I love learning new skills. How about you?"
+    },
+    {
+      "question": "What's your favorite type of workshop or class?",
+      "answer": "I enjoy art workshops and cooking classes. What about you?"
+    },
+    {
+      "question": "What's your favorite way to stay motivated?",
+      "answer": "I love setting goals and creating vision boards. What about you?"
+    },
+    {
+      "question": "Do you enjoy attending book clubs?",
+      "answer": "Yes, I love discussing books with others. How about you?"
+    },
+    {
+      "question": "What's your favorite type of book club?",
+      "answer": "I enjoy fiction book clubs and self-help book clubs. What about you?"
+    },
+    {
+      "question": "Do you have any favorite motivational quotes?",
+      "answer": "Yes, I love the quote 'The only way to do great work is to love what you do'. What about you?"
+    },
+    {
+      "question": "What's your favorite way to stay positive?",
+      "answer": "I love practicing gratitude and positive affirmations. What about you?"
+    },
+    {
+      "question": "Do you enjoy attending cultural events?",
+      "answer": "Yes, I love experiencing different cultures. How about you?"
+    },
+    {
+      "question": "What's your favorite type of cultural event?",
+      "answer": "I enjoy art exhibitions and cultural festivals. What about you?"
+    },
+    {
+      "question": "Do you have any favorite museums or galleries?",
+      "answer": "Yes, I love visiting art museums and history museums. How about you?"
+    },
+    {
+      "question": "What's your favorite way to learn about new cultures?",
+      "answer": "I love trying new cuisines and learning about traditional customs. What about you?"
+    },
+    {
+      "question": "Do you enjoy attending networking events?",
+      "answer": "Yes, I find it very valuable to connect with others. How about you?"
+    },
+    {
+      "question": "What's your favorite type of networking event?",
+      "answer": "I enjoy industry-specific networking events and social mixers. What about you?"
+    },
+    {
+      "question": "Do you have any favorite networking tips?",
+      "answer": "Yes, I find that active listening and asking open-ended questions are very effective. How about you?"
+    },
+    {
+      "question": "What's your favorite way to make new connections?",
+      "answer": "I love attending meetups and joining professional groups. What about you?"
+    },
+    {
+      "question": "What's been on your mind lately?",
+      "answer": "I've been thinking about ways to stay positive and motivated. How about you?"
+    },
+    {
+      "question": "How do you cope with difficult times?",
+      "answer": "I find strength in focusing on gratitude and seeking support from loved ones. What about you?"
+    },
+    {
+      "question": "What inspires you to keep going when things get tough?",
+      "answer": "I draw inspiration from stories of resilience and the belief that challenges make us stronger. What about you?"
+    },
+    {
+      "question": "How do you stay motivated to pursue your goals?",
+      "answer": "I remind myself of the reasons why I started and celebrate small victories along the way. What about you?"
+    },
+    {
+      "question": "What's one thing that always lifts your spirits?",
+      "answer": "I find solace in nature and the power of positive affirmations. What about you?"
+    },
+    {
+      "question": "How do you practice self-care during tough times?",
+      "answer": "I prioritize self-care through meditation, exercise, and engaging in activities that bring me joy. What about you?"
+    },
+    {
+      "question": "What's a quote that resonates with you during challenging times?",
+      "answer": "The quote 'Tough times never last, but tough people do' always gives me strength. What about you?"
+    },
+    {
+      "question": "How do you support others when they're feeling down?",
+      "answer": "I offer a listening ear, words of encouragement, and remind them of their inner strength. What about you?"
+    },
+    {
+      "question": "What's a goal that keeps you motivated?",
+      "answer": "The goal of making a positive impact in the lives of others keeps me motivated and focused. What about you?"
+    },
+    {
+      "question": "How do you find hope during challenging times?",
+      "answer": "I find hope in the resilience of the human spirit and the power of community support. What about you?"
+    },
+    {
+      "question": "What's a mantra that helps you stay positive?",
+      "answer": "The mantra 'I am capable, I am strong, I am resilient' helps me stay positive and focused. What about you?"
+    },
+    {
+      "question": "How do you overcome self-doubt and fear?",
+      "answer": "I challenge negative thoughts with affirmations and take small steps towards my goals. What about you?"
+    },
+    {
+      "question": "What's a song that uplifts your mood?",
+      "answer": "The song 'Eye of the Tiger' always boosts my motivation and determination. What about you?"
+    },
+    {
+      "question": "How do you find strength in vulnerability?",
+      "answer": "I believe that vulnerability is a sign of courage and a pathway to connection and growth. What about you?"
+    },
+    {
+      "question": "What's a book or story that inspires you?",
+      "answer": "The story of overcoming adversity in 'The Alchemist' always inspires me to pursue my dreams. What about you?"
+    },
+    {
+      "question": "How do you find joy in everyday moments?",
+      "answer": "I practice mindfulness and gratitude to find joy in the simple things in life. What about you?"
+    },
+    {
+      "question": "What's a quote that motivates you to take action?",
+      "answer": "The quote 'The future depends on what you do today' motivates me to take proactive steps towards my goals. What about you?"
+    },
+    {
+      "question": "How do you stay focused on your long-term vision?",
+      "answer": "I break down my vision into actionable steps and stay committed to the journey. What about you?"
+    },
+    {
+      "question": "What's a lesson you've learned from a past challenge?",
+      "answer": "I've learned that challenges can be opportunities for growth and resilience. What about you?"
+    },
+    {
+      "question": "How do you find peace during turbulent times?",
+      "answer": "I find peace through meditation, journaling, and connecting with loved ones. What about you?"
+    },
+    {
+      "question": "What's a quote that reminds you of your inner strength?",
+      "answer": "The quote 'You are braver than you believe, stronger than you seem, and smarter than you think' resonates with my inner strength. What about you?"
+    },
+    {
+      "question": "How do you support others in their pursuit of happiness?",
+      "answer": "I offer encouragement, empathy, and remind them of their worth and potential. What about you?"
+    },
+    {
+      "question": "What's a goal that brings purpose to your life?",
+      "answer": "The goal of making a positive impact in the world and helping others brings purpose to my life. What about you?"
+    },
+    {
+      "question": "How do you find resilience in the face of adversity?",
+      "answer": "I find resilience through self-compassion, seeking support, and maintaining a growth mindset. What about you?"
+    },
+    {
+      "question": "What's a mantra that helps you stay grounded?",
+      "answer": "The mantra 'I am enough, I have enough, I do enough' helps me stay grounded and centered. What about you?"
+    },
+    {
+      "question": "How do you find courage to take risks and pursue your dreams?",
+      "answer": "I find courage through self-belief, embracing uncertainty, and taking calculated risks. What about you?"
+    },
+    {
+      "question": "What's a song that empowers you to overcome obstacles?",
+      "answer": "The song 'Stronger' by Kelly Clarkson empowers me to overcome obstacles and keep moving forward. What about you?"
+    },
+    {
+      "question": "How do you find meaning in challenging experiences?",
+      "answer": "I find meaning through reflection, learning, and using challenges as opportunities for growth. What about you?"
+    },
+    {
+      "question": "What's a book or story that motivates you to persevere?",
+      "answer": "The story of perseverance in 'The Pursuit of Happyness' always motivates me to keep going. What about you?"
+    },
+    {
+      "question": "How do you find gratitude in difficult circumstances?",
+      "answer": "I find gratitude by focusing on the lessons and silver linings in difficult circumstances. What about you?"
+    },
+    {
+      "question": "What's a quote that encourages you to embrace change?",
+      "answer": "The quote 'The only way to make sense out of change is to plunge into it, move with it, and join the dance' encourages me to embrace change. What about you?"
+    },
+    {
+      "question": "How do you support others in their pursuit of personal growth?",
+      "answer": "I offer encouragement, resources, and a listening ear to support others in their personal growth journey. What about you?"
+    },
+    {
+      "question": "What's a goal that fuels your passion and drive?",
+      "answer": "The goal of creating meaningful change and leaving a positive impact fuels my passion and drive. What about you?"
+    },
+    {
+      "question": "How do you find hope in the face of uncertainty?",
+      "answer": "I find hope through faith, resilience, and the belief that better days are ahead. What about you?"
+    },
+    {
+      "question": "What's a mantra that helps you stay resilient in the midst of challenges?",
+      "answer": "The mantra 'I am adaptable, I am strong, I am capable' helps me stay resilient and focused. What about you?"
+    },
+    {
+      "question": "How do you find strength in vulnerability and authenticity?",
+      "answer": "I find strength in vulnerability by embracing authenticity and connecting with others on a deeper level. What about you?"
+    },
+    {
+      "question": "What's a story or experience that inspires you to live with purpose?",
+      "answer": "The story of living with purpose in 'The Power of Now' always inspires me to live in the present moment. What about you?"
+    },
+    {
+      "question": "How do you find joy and gratitude in everyday moments?",
+      "answer": "I find joy and gratitude by practicing mindfulness, savoring simple pleasures, and expressing appreciation. What about you?"
+    },
+    {
+      "question": "What's a quote that motivates you to take bold action?",
+      "answer": "The quote 'Leap and the net will appear' motivates me to take bold action and embrace uncertainty. What about you?"
+    },
+    {
+      "question": "How do you stay focused on your long-term vision and goals?",
+      "answer": "I stay focused by setting clear intentions, visualizing success, and taking consistent action towards my goals. What about you?"
+    },
+    {
+      "question": "What's a lesson you've learned from a past setback or failure?",
+      "answer": "I've learned that setbacks can be stepping stones to growth and resilience. What about you?"
+    },
+    {
+      "question": "How do you find peace and inner calm during challenging times?",
+      "answer": "I find peace and inner calm through meditation, deep breathing, and connecting with nature. What about you?"
+    },
+    {
+      "question": "What's a quote that reminds you of your inner strength and potential?",
+      "answer": "The quote 'You are more powerful than you know; you are beautiful just as you are' reminds me of my inner strength and potential. What about you?"
+    },
+    {
+      "question": "What is your idea of a perfect date?",
+      "answer": "A perfect date for me would be a quiet dinner by the beach, watching the sunset."
+    },
+    {
+      "question": "What is the most romantic thing you've ever done for someone?",
+      "answer": "I once surprised my partner with a spontaneous weekend getaway to a cozy cabin in the mountains."
+    },
+    {
+      "question": "How do you express your love to your partner?",
+      "answer": "I express my love through small gestures, like leaving love notes or cooking their favorite meal."
+    },
+    {
+      "question": "What is your favorite love song?",
+      "answer": "My favorite love song is 'Can't Help Falling in Love' by Elvis Presley."
+    },
+    {
+      "question": "What is your idea of a romantic getaway?",
+      "answer": "A romantic getaway for me would be a trip to a picturesque vineyard in the countryside."
+    },
+    {
+      "question": "What is the most romantic movie you've ever seen?",
+      "answer": "The most romantic movie I've seen is 'The Notebook'."
+    },
+    {
+      "question": "What is your favorite romantic memory?",
+      "answer": "My favorite romantic memory is dancing under the stars with my partner."
+    },
+    {
+      "question": "What is your dream proposal?",
+      "answer": "My dream proposal would be a surprise proposal in a beautiful garden filled with flowers."
+    },
+    {
+      "question": "What is your favorite romantic quote?",
+      "answer": "My favorite romantic quote is 'Love is composed of a single soul inhabiting two bodies.'"
+    },
+    {
+      "question": "What is your idea of a perfect romantic evening?",
+      "answer": "A perfect romantic evening for me would be a candlelit dinner followed by stargazing."
+    },
+    {
+      "question": "What is your favorite romantic gesture?",
+      "answer": "My favorite romantic gesture is receiving a bouquet of red roses."
+    },
+    {
+      "question": "What is your favorite romantic destination?",
+      "answer": "My favorite romantic destination is Paris, the city of love."
+    },
+    {
+      "question": "What is your favorite romantic activity?",
+      "answer": "My favorite romantic activity is taking long walks hand in hand with my partner."
+    },
+    {
+      "question": "What is your idea of a perfect romantic gift?",
+      "answer": "A perfect romantic gift for me would be a personalized piece of jewelry."
+    },
+    {
+      "question": "What is your favorite romantic poem?",
+      "answer": "My favorite romantic poem is 'How Do I Love Thee?' by Elizabeth Barrett Browning."
+    },
+    {
+      "question": "What is your favorite romantic tradition?",
+      "answer": "My favorite romantic tradition is exchanging love letters on special occasions."
+    },
+    {
+      "question": "What is your favorite romantic dessert?",
+      "answer": "My favorite romantic dessert is chocolate-covered strawberries."
+    },
+    {
+      "question": "What is your favorite romantic book?",
+      "answer": "My favorite romantic book is 'Pride and Prejudice' by Jane Austen."
+    },
+    {
+      "question": "What is your favorite romantic activity?",
+      "answer": "My favorite romantic activity is watching the sunset together."
+    },
+    {
+      "question": "What is your favorite romantic memory?",
+      "answer": "My favorite romantic memory is our first kiss under the stars."
+    },
+    {
+      "question": "What is your favorite romantic movie?",
+      "answer": "My favorite romantic movie is 'The Princess Bride'."
+    },
+    {
+      "question": "What is your favorite romantic quote?",
+      "answer": "My favorite romantic quote is 'You had me at hello.'"
+    },
+    {
+      "question": "What is your favorite romantic song?",
+      "answer": "My favorite romantic song is 'Unchained Melody' by The Righteous Brothers."
+    },
+    {
+      "question": "What is your favorite romantic activity?",
+      "answer": "My favorite romantic activity is cuddling by the fireplace."
+    },
+    {
+      "question": "What is your favorite romantic destination?",
+      "answer": "My favorite romantic destination is the Amalfi Coast in Italy."
+    },
+    {
+      "question": "What is your favorite romantic tradition?",
+      "answer": "My favorite romantic tradition is writing love letters to each other."
+    },
+    {
+      "question": "What is your favorite romantic dessert?",
+      "answer": "My favorite romantic dessert is tiramisu."
+    },
+    {
+      "question": "What is your favorite romantic book?",
+      "answer": "My favorite romantic book is 'Wuthering Heights' by Emily Bront\u00c3\u00ab."
+    },
+    {
+      "question": "What is your favorite romantic memory?",
+      "answer": "My favorite romantic memory is our first dance at our wedding."
+    },
+    {
+      "question": "What is your favorite romantic movie?",
+      "answer": "My favorite romantic movie is 'Casablanca'."
+    },
+    {
+      "question": "What is your favorite romantic quote?",
+      "answer": "My favorite romantic quote is 'To me, you are perfect.'"
+    },
+    {
+      "question": "What is your favorite romantic song?",
+      "answer": "My favorite romantic song is 'At Last' by Etta James."
+    },
+    {
+      "question": "What is your favorite romantic activity?",
+      "answer": "My favorite romantic activity is taking a sunset boat ride."
+    },
+    {
+      "question": "What is your favorite romantic destination?",
+      "answer": "My favorite romantic destination is Santorini, Greece."
+    },
+    {
+      "question": "What is your favorite romantic tradition?",
+      "answer": "My favorite romantic tradition is watching the sunrise together."
+    },
+    {
+      "question": "What is your favorite romantic book?",
+      "answer": "My favorite romantic book is 'Romeo and Juliet' by William Shakespeare."
+    },
+    {
+      "question": "What is your favorite romantic memory?",
+      "answer": "My favorite romantic memory is our first trip together to a secluded beach."
+    },
+    {
+      "question": "What is your favorite romantic movie?",
+      "answer": "My favorite romantic movie is 'Eternal Sunshine of the Spotless Mind'."
+    },
+    {
+      "question": "What is your favorite romantic quote?",
+      "answer": "My favorite romantic quote is 'You are my today and all of my tomorrows.'"
+    },
+    {
+      "question": "What is your favorite romantic song?",
+      "answer": "My favorite romantic song is 'Unforgettable' by Nat King Cole."
+    },
+    {
+      "question": "What is your favorite romantic activity?",
+      "answer": "My favorite romantic activity is stargazing in a quiet, remote location."
+    },
+    {
+      "question": "What is your favorite romantic destination?",
+      "answer": "My favorite romantic destination is the Maldives."
+    },
+    {
+      "question": "What is your favorite romantic tradition?",
+      "answer": "My favorite romantic tradition is exchanging love letters on our anniversary."
+    },
+    {
+      "question": "What is your favorite romantic dessert?",
+      "answer": "My favorite romantic dessert is red velvet cake."
+    },
+    {
+      "question": "What is your favorite romantic book?",
+      "answer": "My favorite romantic book is 'Pride and Prejudice' by Jane Austen."
+    }
+  ]
+}
